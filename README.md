@@ -3,9 +3,9 @@
 **(This project is crated via using React)**
 
 ## Things I have used 
-- React
-- Lenis
-- Framer Motion
+1 React
+2 Lenis
+3 Framer Motion
 
 
   ## Why this project is special?
